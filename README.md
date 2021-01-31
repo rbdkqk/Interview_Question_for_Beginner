@@ -87,8 +87,8 @@
 ## :bulb: 개발상식 [Link](https://github.com/JaeYeopHan/Beginner_for_interview/tree/master/Development_common_sense)
 
 - 좋은 코드란 무엇인가?
-- 객체 지향 프로그래밍이란 무엇인가?
-- RESTFul API 란?
+- 객체 지향 프로그래밍이란 무엇인가? O
+- RESTFul API 란? O
 - TDD 란 무엇이며 어떠한 장점이 있는가?
 - 함수형 프로그래밍이란?
 - MVC 패턴이란 무엇인가?
@@ -96,7 +96,7 @@
 
 </br>
 
-## :bulb: 자료구조 [Link](https://github.com/JaeYeopHan/for_beginner/tree/master/DataStructure)
+## :bulb: 자료구조 [Link](https://github.com/JaeYeopHan/for_beginner/tree/master/DataStructure) 전체 X (니가 알고리즘 공부한걸로 충분)
 
 - Array vs Linked List
 - Stack and Queue
@@ -129,19 +129,19 @@
 
 ## :bulb: 네트워크 [Link](https://github.com/JaeYeopHan/Beginner_for_interview/tree/master/Network)
 
-- GET, POST 방식의 차이점
-- TCP 3-way-handshake
-- TCP 와 UDP 의 차이점
-- HTTP 와 HTTPS 의 차이점
+- GET, POST 방식의 차이점 O
+- TCP 3-way-handshake O
+- TCP 와 UDP 의 차이점 O
+- HTTP 와 HTTPS 의 차이점 O
   - HTTP 의 문제점들
-- DNS round robin 방식
-- 웹 통신의 큰 흐름
+- DNS round robin 방식 X
+- 웹 통신의 큰 흐름 X
 
 </br>
 
-## :bulb: 운영체제 [Link](https://github.com/JaeYeopHan/Beginner_for_interview/tree/master/OS)
+## :bulb: 운영체제 [Link](https://github.com/JaeYeopHan/Beginner_for_interview/tree/master/OS) O 표시 외에 전부 X
 
-- 프로세스와 스레드의 차이
+- 프로세스와 스레드의 차이 O
 - 스케줄러의 종류
   - 장기 스케줄러
   - 단기 스케줄러
@@ -173,7 +173,7 @@
 
 </br>
 
-## :bulb: 데이터베이스 [Link](https://github.com/JaeYeopHan/Beginner_for_interview/tree/master/Database)
+## :bulb: 데이터베이스 [Link](https://github.com/JaeYeopHan/Beginner_for_interview/tree/master/Database) 전체 X(백엔드였으면 해야함)
 
 - 데이터베이스
   - 데이터베이스를 사용하는 이유
@@ -213,13 +213,13 @@
 
 </br>
 
-## :bulb: Design Pattern [Link](https://github.com/JaeYeopHan/Beginner_for_interview/tree/master/DesignPattern)
+## :bulb: Design Pattern [Link](https://github.com/JaeYeopHan/Beginner_for_interview/tree/master/DesignPattern) 전체 X
 
 - Singleton
 
 </br>
 
-## :bulb: Algorithm (알고리즘) [Link](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/tree/master/Algorithm)
+## :bulb: Algorithm (알고리즘) [Link](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/tree/master/Algorithm) 전체 X 이건 leetcode로 하고 있으니 
 
 - 손코딩 및 코딩 테스트 대비
   => 대부분의 내용이 코드이기 때문에 별도의 [Java Algorithm Training Repository](https://github.com/JaeYeopHan/algorithm_basic_java)에 저장합니다.
@@ -238,7 +238,7 @@
 
 </br>
 
-# Part 2. Language
+# Part 2. Language javascript 외에 전부 X
 
 ## :gem: Java [Link](https://github.com/JaeYeopHan/Beginner_for_interview/tree/master/Java)
 
@@ -303,7 +303,7 @@
 
 # Part 3. 분야별
 
-## :large_orange_diamond: Front-End [Link](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/tree/master/FrontEnd)
+## :large_orange_diamond: Front-End [Link](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/tree/master/FrontEnd) 전부 O
 
 - 브라우저의 작동 원리
 - Document Object Model
@@ -329,7 +329,7 @@
 
 </br>
 
-## :large_orange_diamond: iOS [Link](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/tree/master/iOS)
+## :large_orange_diamond: iOS [Link](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/tree/master/iOS) 전부 X
 
 - App Life Cycle
 - View Life Cycle
@@ -347,7 +347,7 @@
 
 </br>
 
-## :large_orange_diamond: Machine Learning [Link](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/tree/master/MachineLearning)
+## :large_orange_diamond: Machine Learning [Link](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/tree/master/MachineLearning) 전부 X
 
 - Cost Function
 
