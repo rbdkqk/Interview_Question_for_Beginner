@@ -25,7 +25,7 @@
 
 </br>
 
-## :memo: Table of Contents
+## :memo: Table of Contents 각 주제별 링크에 들어가면 나오는 세부 주제들이 [이 링크](#part-1-전산-기초)에 나열되어 있고 뭘 공부해야할지 표시해놨으니 참고하면서 각 링크에서 발췌해서 공부 ㄱㄱ
 
 - [What is this?](#what-is-this?)
 - [면접에서 받았던 질문들](#면접에서-받았던-질문들)
